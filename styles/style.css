@@ -259,14 +259,12 @@
   position: absolute;
   top: -30px;
   left: 319px;
-  flex-direction: column-reverse;
 }
 
 .person_name_burbidge {
   position: absolute;
   top: 96px;
   right: 125px;
-  flex-direction: column-reverse;
 }
 
 .person_name_cannon {
@@ -283,7 +281,6 @@
 
 .person_name_tarter {
   position: absolute;
-  flex-direction: column-reverse;
   top: 79px;
   left: 159px;
 }
