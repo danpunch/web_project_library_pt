@@ -364,8 +364,6 @@
 
 .footer__columns {
   display: flex;
-  font-size: 16px;
-  line-height: 20px;
 }
 
 .footer__column_content_hours {
@@ -378,7 +376,7 @@
 
 .footer__logo {
   width: 58px;
-  height: 58px;
+  height: 80px;
   box-sizing: border-box;
 }
 
